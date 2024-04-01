@@ -6,7 +6,7 @@ Olá, seja bem-vindo. Sou o Nicolas de Lima, tenho 24 anos e sou estudante de An
 
 ##### *Figura 00. Nicolas*
 
-### Meus principais conhecimentos
+## Meus principais conhecimentos
 
 Com relação aos meus principais conhecimentos, tenho foco no desenvolvimento front-end das aplicações, já utilizei os frameworks Angular e React. Atualmente estou focando na área de dados com Python suas bibliotecas voltadas para essa área, como o pandas, numpy e opencv:    
 
