@@ -32,7 +32,7 @@ Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados d
 Abaixo listarei todos os projetos com link para mais detalhes sobre eles.
 
 ## Projeto 1: 2º Semestre de 2019
-[SmartTag]()
+[SmartTag](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202019-2_SmartTag.md) <br/>
 No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvimento de sistemas encontrar uma necessidade no dia a dia que pudesse ser solucionada com o auxílio da tecnologia IOT -Internet das Coisas.
 
 
