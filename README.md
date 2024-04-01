@@ -37,4 +37,4 @@ No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvim
 
 
 ## Contatos
-* [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/nicolas-de-lima-23137718b/))
+* [LinkedIn](https://www.linkedin.com/in/nicolas-de-lima-23137718b/)
