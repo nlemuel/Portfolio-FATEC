@@ -71,7 +71,15 @@ A equipe utilizou as seguintes tecnologias:
 
 Desenvolvi habilidades técnicas trabalhando em conjunto com os integrantes da equipe na parte lógica, programando em C++, ultilizando o Arduino para criar os códigos de controle e com o desenvolvimento do App móvel. Ainda, com os integrantes da equipe, fui capaz de aprender mais sobre elétrica e eletrônica. 
 
-Entre soft skills, consegui participar ativamente das reuniões e entrega dos requisitos. O grupo utilizou a metodologia scrum para o gerenciamento do tempo, cards e planejamento.   
+#### Soft skills
+
+Entre soft skills, consegui participar ativamente das reuniões e entrega dos requisitos. Como foi nossa primeira experiência utilizando a metodologia scrum aprendemos muito a como se portar como um time scrum, desenvolvendo habilidades de comunicação e trabalho em grupo. 
+
+Comunicação eficaz: A capacidade de expressar ideias de forma clara e compreensível durante as reuniões com o grupo.
+
+Trabalho em equipe: A habilidade de trabalhar bem com os outros para atingir um objetivo comum.
+
+Resolução de problemas: A capacidade de identificar problemas e encontrar soluções eficazes para eles durante o desenvolvimento do projeto
 
 ### Aprendizados Efetivos HS
 
