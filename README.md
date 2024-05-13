@@ -38,6 +38,8 @@ Abaixo listarei todos os projetos com link para mais detalhes sobre eles.
 [SmartTag](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202019-2_SmartTag.md) <br/>
 No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvimento de sistemas encontrar uma necessidade no dia a dia que pudesse ser solucionada com o auxílio da tecnologia IOT -Internet das Coisas.
 
+## Projeto 1: 2º Semestre de 2023
+Neste projeto nos foi proposto o desenvolvimento de um assistente virtual que responde perguntas de acordo com um documento acessado por ela.
 
 ## Contatos
 * [LinkedIn](https://www.linkedin.com/in/nicolas-de-lima-23137718b/)
