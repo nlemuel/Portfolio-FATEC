@@ -39,9 +39,8 @@ Requisitos Funcionais:
 [Acesse o Repositório](https://github.com/felipereira10/Code-Wave-2-API)
 
 
-### Tecnologias adotadas na solução
+### Tecnologias adotadas na solução:
 
-A equipe utilizou as seguintes tecnologias:
 ![image](https://github.com/nlemuel/Portfolio-FATEC/assets/53242511/95f7ba27-a9cf-49ba-abd9-8f4af7d8133d)
 
 
