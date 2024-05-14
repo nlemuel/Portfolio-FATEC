@@ -36,10 +36,15 @@ Abaixo listarei todos os projetos com link para mais detalhes sobre eles.
 
 ## Projeto 1: 2º Semestre de 2019
 [SmartTag](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202019-2_SmartTag.md) <br/>
-No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvimento de sistemas encontrar uma necessidade no dia a dia que pudesse ser solucionada com o auxílio da tecnologia IOT -Internet das Coisas.
 
-## Projeto 1: 2º Semestre de 2023
-Neste projeto nos foi proposto o desenvolvimento de um assistente virtual que responde perguntas de acordo com um documento acessado por ela.
+## Projeto 2: 2º Semestre de 2023
+[CodeWave](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202023-2_CodeWave.md) <br/>
+
+## Projeto 3: 1º Semestre de 2022
+[PowerTech](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202022-1_PowerTech.md) <br/>
+
+## Projeto 4: 2º Semestre de 2022
+[PowerTech](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202022-2_PowerTech.md) <br/>
 
 ## Contatos
 * [LinkedIn](https://www.linkedin.com/in/nicolas-de-lima-23137718b/)
