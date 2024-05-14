@@ -1,6 +1,9 @@
 # Hello, world! Meu nome é Nicolas
 
-Olá, seja bem-vindo. Sou o Nicolas de Lima, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC Prof. Jessen Vidal.
+Olá, seja bem-vindo. Sou o Nicolas de Lima, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC Prof. Jessen Vidal. 
+Sou formado em técnico de automação industrial pela ETEC, onde tive meu primeiro contato com a programação aprendendo e programando sistemas embarcados. Meu trabalho de conclusão de curso foi uma esteira seletora que separava as peças que estavam fora do padrão da linha de produção, depois deste grande contato com programação eu sou que este poderia ser um caminho a se seguir para minha carreira. Buscando uma carreira com sistemas embarcados ingressei na faculdade de engenharia elétrica, mas ali eu comecei a conhecer o universo do desenvolvimento web e todas as outras áreas de T.I e decidi fazer uma faculdade com o conteúdo mais específico, com uma grade curricular voltada para a programação e os conhecimentos necessários para ingressar no mercado de trabalho da tecnologia da informação. 
+
+Na FATEC foi onde aprendi tudo sobre a área e onde venho dando meus primeiros passos no mercado de trabalho, primeiro com os projetos integrados realizados em conjunto com empresas parceiras da faculdade e posteriormente no meu estágio onde desenvolvi as habilidades aprendidas durante o curso. Trabalhei como estagiário na Vivo com o time de DBA onde aprendi mais sobre manipulação de dados, integridade, segurança e desempenho dos sistemas de banco de dados trabalhando em conjunto com o time que desenvolvia os relatórios.
 
 <img src="https://github.com/nlemuel/Portfolio-FATEC/assets/53242511/9418d119-7318-4395-9653-5274a065d52f" height="200" width="200"/>
 
@@ -32,9 +35,11 @@ Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados d
 Abaixo listarei todos os projetos com link para mais detalhes sobre eles.
 
 ## Projeto 1: 2º Semestre de 2019
-[SmartTag]()
+[SmartTag](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202019-2_SmartTag.md) <br/>
 No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvimento de sistemas encontrar uma necessidade no dia a dia que pudesse ser solucionada com o auxílio da tecnologia IOT -Internet das Coisas.
 
+## Projeto 1: 2º Semestre de 2023
+Neste projeto nos foi proposto o desenvolvimento de um assistente virtual que responde perguntas de acordo com um documento acessado por ela.
 
 ## Contatos
 * [LinkedIn](https://www.linkedin.com/in/nicolas-de-lima-23137718b/)
