@@ -75,6 +75,7 @@ Resolução de problemas: A capacidade de identificar problemas e encontrar solu
 ### Aprendizados Efetivos HS
 
 - Desenvolver frontend: Sei desenvolver com autonomia;
+- Typescript: Sei com autonomia;
 - Angular: Sei com ajuda;
 - Bootstrap: Sei utilizar com autonomia;
 - Criação do prototipo das telas no figma: Sei com autonomia;
