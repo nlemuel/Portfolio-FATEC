@@ -1,4 +1,4 @@
-## Projeto Integrador: 2023-1
+## Projeto Integrador: 2022-2
 
 ## Projeto 4º Semestre: ***PowerTech***.
 
