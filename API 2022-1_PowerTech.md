@@ -1,6 +1,6 @@
-## Projeto Integrador: 2019-2
+## Projeto Integrador: 2022-1
 
-## Projeto 2º Semestre: ***PowerTech***.
+## Projeto 3º Semestre: ***PowerTech***.
 
 ### Introdução ao projeto
 
