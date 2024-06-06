@@ -55,22 +55,25 @@ Requisitos Não Funcionais:
 
 ### Tecnologias adotadas na solução:
 
-![image](https://github.com/nlemuel/Portfolio-FATEC/assets/53242511/68beecac-1b3f-4718-bd5d-0b0cb04b3cd3)
+- **Banco de Dados:** PostgreSQL;
+- **Back-end:** JAva;
+- **Front-end:** HTML, CSS, Bootstrap, Angular e Typescript;
+- **Ferramentas:** Discord, Visual Studio Code, Figma, Git, Github, Trello e Excel;
 
 
 ### Contribuições pessoais
 
-Desenvolvi as telas em conjuntos com os outros membros de equipe e participei do desenvolvimento do wireframe. Aprendi mais sobre o framework de frontend Angular, foi meu primeiro contato com esta ferramenta e pude aprender muito sobre ele durante as reuniões para tirar minhas dúvidas.
+Desenvolvi as telas de cadastro de contas de água, luz e gás além das telas de upload de PDF/IMG e de visualização das faturas cadastradas. Participei do desenvolvimento do wireframe. Aprendi mais sobre o framework de frontend Angular, foi meu primeiro contato com esta ferramenta e pude aprender muito sobre ele durante as reuniões para tirar minhas dúvidas.
 
 #### Soft skills
 
-Flexibilidade: A capacidade de se adaptar a novas situações e mudanças utilizando novas ferramentas.
+Flexibilidade: A capacidade de se adaptar a novas situações e mudanças utilizando novas ferramentas como o Angular e Bootstrap no frontend.
 
-Pensamento crítico: A capacidade de analisar informações de diferentes ângulos para tomar decisões informadas.
+Pensamento crítico: A capacidade de analisar informações de diferentes ângulos para tomar decisões informadas no desenvolvimento das telas.
 
-Criatividade: A capacidade de pensar fora da caixa durante o desenvolvimento do wireframe.
+Criatividade: A capacidade de pensar fora da caixa durante o desenvolvimento do wireframe no figma.
 
-Resolução de problemas: A capacidade de identificar problemas e encontrar soluções eficazes para eles durante as sprints.
+Resolução de problemas: A capacidade de identificar problemas e encontrar soluções eficazes das tasks durante as sprints.
 
 ### Aprendizados Efetivos HS
 

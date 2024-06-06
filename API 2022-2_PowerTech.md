@@ -74,57 +74,24 @@ Requisitos Não Funcionais:
 
 ### Tecnologias adotadas na solução:
 
-<summary>Front-End</summary>
-
-* [React](https://pt-br.reactjs.org)
-* [Bootstrap](https://getbootstrap.com/)
-
-
-
-
-
-<summary>Back-End</summary>
-
-* [TypeScript](https://www.typescriptlang.org)
-* [Node Js](https://nodejs.org/en/)
-
-
-
-<summary>Banco de Dados</summary>
-
-* [PostgreSQL](https://www.postgresql.org/download/)
-* [ElephantSQL](https://www.elephantsql.com/)
-* [Vertabelo](https://vertabelo.com/)
-
-
-
-<summary>Reuniões e Comunicação</summary>
-
-* [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
-* [Whatsapp](https://www.whatsapp.com/)
-* [Taiga](https://www.taiga.io/)
-
-
-
-<summary>Outras Ferramentas</summary>
-
-* [Github](https://github.com/)
-* [VS Code](https://code.visualstudio.com/)
-
+- **Banco de Dados:** PostgreSQL, ElephantSQL e Vertabelo
+- **Back-end:** Node.js e Typescript;
+- **Front-end:** React e Bootstrap;
+- **Ferramentas:** Discord, Visual Studio Code, Figma, Git e Github e Taiga
 
 ### Contribuições pessoais
 
-Participei do desenvolvimento das telas do projeto utilizando o React e mais uma vez ajudei no desenvolvimento do wireframe. Também participei da conexão do frontend com o backend da aplicação. Pude também ajudar outros colegas que estavam tendo o primeiro contato com o React.
+Participei do desenvolvimento das telas do Administrador e Gestor do projeto utilizando o React e mais uma vez ajudei no desenvolvimento do wireframe. Também participei da conexão do frontend com o backend da aplicação. Pude também ajudar outros colegas que estavam tendo o primeiro contato com o React no desenvolvimento das telas de colaborador.
 
 #### Soft skills
 
-Liderança: A habilidade de inspirar e motivar os outros a atingir seus objetivos durante o desenvolvimento das tasks da sprint.
+Liderança: A habilidade de inspirar e motivar os outros integrantes do grupo a atingir seus objetivos durante o desenvolvimento das tasks da sprint.
 
-Empatia: A habilidade de entender e compartilhar os sentimentos dos outros durante suas dificuldades enfrentadas durante o projeto.
+Empatia: A habilidade de entender e compartilhar os sentimentos dos outros membros do time durante suas dificuldades enfrentadas durante o projeto.
 
-Flexibilidade: A capacidade de se adaptar a novas situações e mudanças utilizando novas ferramentas.
+Flexibilidade: A capacidade de se adaptar a novas situações e mudanças utilizando novas ferramentas exigidas pelo projeto para cumprir com a solução proposta.
 
-Criatividade: A capacidade de pensar fora da caixa durante o desenvolvimento do wireframe.
+Criatividade: A capacidade de pensar fora da caixa durante o desenvolvimento do wireframe no figma.
 
 
 ### Aprendizados Efetivos HS

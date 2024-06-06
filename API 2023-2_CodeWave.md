@@ -41,22 +41,25 @@ Requisitos Funcionais:
 
 ### Tecnologias adotadas na solução:
 
-![image](https://github.com/nlemuel/Portfolio-FATEC/assets/53242511/95f7ba27-a9cf-49ba-abd9-8f4af7d8133d)
+- **Banco de Dados:** MySQL;
+- **Back-end:** Java;
+- **Front-end:** Java;
+- **Ferramentas:** Eclipse, Figma, Git e Github
 
 
 ### Contribuições pessoais
 
-Desenvolvi habilidades técnicas trabalhando em conjunto com os integrantes da equipe no desenvolvimento das telas utilizando a linguagem de programação Java. Ainda, com os integrantes da equipe e professores, fui capaz de aprender mais sobre Java. 
+Desenvolvi habilidades técnicas trabalhando em conjunto com os integrantes da equipe no desenvolvimento das telas utilizando a linguagem de programação Java. Ainda, com os integrantes da equipe e professores, fui capaz de aprender mais sobre Java. Eu junto com os outros desenvolvedores trabalhamos nas telas de importação e listagem de documentos acessados
 
 #### Soft skills
 
 Entre soft skills, consegui participar ativamente das reuniões e entrega dos requisitos.
 
-Flexibilidade: A capacidade de se adaptar a novas situações e mudanças.
+Flexibilidade: A capacidade de se adaptar a novas situações e mudanças. Eu não estava acostumado a utilizar o Java para desenvolvimento de telas e tive de me adaptat a esta nova ferramenta
 
-Criatividade: A capacidade de pensar fora da caixa e gerar ideias inovadoras.
+Criatividade: A capacidade de pensar fora da caixa para a criação das telas focando na experiência de usuário
 
-Resolução de problemas: A capacidade de identificar problemas e encontrar soluções eficazes para eles durante o desenvolvimento do projeto
+Resolução de problemas: A capacidade de identificar problemas e encontrar soluções eficazes para eles durante o desenvolvimento do projeto. Encontramos muitos problemas técnicos com a linguagem utilizada no projeto e tivemos de superá-las para fazer as entregas.
 
 ### Aprendizados Efetivos HS
 
