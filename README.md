@@ -46,7 +46,7 @@ Abaixo listarei todos os projetos com link para mais detalhes sobre eles.
 ## Projeto 4: 2º Semestre de 2022
 [PowerTech](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202022-2_PowerTech.md) <br/>
 
-## Projeto 5: 1º Semestre de 2022
+## Projeto 5: 1º Semestre de 2023
 [PowerTech](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202023-1_PowerTech.md) <br/>
 
 ## Contatos
