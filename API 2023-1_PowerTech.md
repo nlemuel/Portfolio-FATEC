@@ -82,7 +82,7 @@ Para a validação das entregas, utilizamos os seguintes critérios
 ***
 
 ### Link do git
-[Acesse o Repositório](https://github.com/felipereira10/Code-Wave-2-API)
+[Acesse o Repositório](https://github.com/PowerTech5API/iacity)
 
 
 ### Tecnologias adotadas na solução:
