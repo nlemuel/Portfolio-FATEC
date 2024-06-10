@@ -49,5 +49,8 @@ Abaixo listarei todos os projetos com link para mais detalhes sobre eles.
 ## Projeto 5: 1º Semestre de 2023
 [PowerTech](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202023-1_PowerTech.md) <br/>
 
+## Projeto 6: 1º Semestre de 2024
+[CodeLab](https://github.com/nlemuel/Portfolio-FATEC/blob/main/API%202024-1_CodeLab.md) <br/>
+
 ## Contatos
 * [LinkedIn](https://www.linkedin.com/in/nicolas-de-lima-23137718b/)
