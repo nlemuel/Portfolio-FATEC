@@ -1,4 +1,4 @@
-## Projeto Integrador: 2023-1
+## Projeto Integrador: 2024-1
 
 ## Projeto 5º Semestre: ***CodeLab***.
 
@@ -52,6 +52,11 @@ https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/6672e903-b83f-49e7-9f3
 
 #### Entrega da Sprint 4 (16/06/2024)
 
+https://github.com/CodeLabFatec/ProjetoIA/assets/26208169/4c4bc248-2616-4223-a8d7-1e7209b8bb07
+
+### Você pode acessar o manual do usuário acessando esse [Link](/docs/MANUAL%20DO%20USUÁRIO.pdf)
+
+<br />
 
 ### Lista de Requisitos 
 
@@ -95,7 +100,9 @@ Flexibilidade: A capacidade de se adaptar a novas situações e mudanças aprese
 
 Resiliência: Encontrei muitas dificuldades durante o desenvolvimento do projeto e precisei desenvolver a habilidade de lidar com a pressão para fazer as entregas em meio a dificuldade técnica encontrada.
 
-Networking: Desenvolvi fortes laços com meus colegas de time e de classe ao buscar ajuda com eles para tirar minhas dúvidas técnicas.
+Negociação: Habilidade de chegar a acordos mutuamente benéficos durante a distribuição de tasks no início das sprints. 
+
+Inteligência emocional: Durante o projeto tive de reconhecer e gerenciar minhas emoções para que elas não afetassem meu desempenho durante as sprints.
 
 ### Aprendizados Efetivos HS
 
