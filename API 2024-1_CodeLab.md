@@ -1,6 +1,6 @@
 ## Projeto Integrador: 2024-1
 
-## Projeto 5º Semestre: ***CodeLab***.
+## Projeto 6º Semestre: ***CodeLab***.
 
 ### Introdução ao projeto
 
